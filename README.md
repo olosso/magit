@@ -1,0 +1,2 @@
+# magit
+Playing with Magit
