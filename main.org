@@ -7,3 +7,5 @@ Tänne tulee paljon tärkeää tavaraa.
 * On aivan hurjasti asiaa
 
 Miten tälle käy.
+
+* Pieni muutos
